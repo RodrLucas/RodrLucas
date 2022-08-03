@@ -1,7 +1,7 @@
 ## Olá, sou o Lucas Rodrigues
 
 
-- 🔭 FrontEnd Developer at Revect
+- 🔭 FrontEnd Developer
 - 🌱 React.Js
 - 📫 lucasrodriguessantos0@gmail.com
 
