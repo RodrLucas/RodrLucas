@@ -1,8 +1,8 @@
 ## Olá, sou o Lucas Rodrigues
 
 
-- 🔭 FrontEnd Developer
-- 🌱 React.Js
+- 🔭 FullStack Developer
+- 🌱 Next | Nest
 - 📫 lucasrodriguessantos0@gmail.com
 
 <!-- <div align="center">
